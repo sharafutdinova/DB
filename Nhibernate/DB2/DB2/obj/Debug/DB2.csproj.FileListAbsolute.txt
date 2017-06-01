@@ -1,0 +1,592 @@
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\obj\Debug\DB2.csprojResolveAssemblyReference.cache
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\ApplicationInsights.config
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\roslyn\csc.exe
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\roslyn\vbc.exe
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\DB2.dll.config
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\DB2.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\DB2.pdb
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\Microsoft.AI.Web.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\Newtonsoft.Json.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\npgsql.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\System.Net.Http.Formatting.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\System.Web.Helpers.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\System.Web.Http.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\System.Web.Http.WebHost.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\System.Web.Mvc.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\System.Web.Razor.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\System.Web.Webpages.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\System.Web.Webpages.Razor.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\Microsoft.AI.Web.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\System.Web.Razor.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\System.Web.Webpages.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\System.Web.Webpages.Razor.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\System.Web.Helpers.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\System.Web.Mvc.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\Newtonsoft.Json.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\System.Net.Http.Formatting.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\System.Web.Http.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\System.Web.Http.WebHost.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\ru\System.Web.Http.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\obj\Debug\DB2.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\obj\Debug\DB2.pdb
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\DB2\DB2\bin\Npgsql.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\obj\Debug\DB2.csprojResolveAssemblyReference.cache
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\obj\Debug\DB2.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\obj\Debug\DB2.pdb
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\ApplicationInsights.config
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\roslyn\csc.exe
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\roslyn\vbc.exe
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\DB2.dll.config
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\DB2.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\DB2.pdb
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\Microsoft.AI.Web.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\Newtonsoft.Json.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\Npgsql.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\System.Net.Http.Formatting.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\System.Web.Helpers.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\System.Web.Http.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\System.Web.Http.WebHost.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\System.Web.Mvc.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\System.Web.Razor.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\System.Web.Webpages.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\System.Web.Webpages.Razor.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\Microsoft.AI.Web.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\Npgsql.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\System.Web.Razor.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\System.Web.Webpages.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\System.Web.Webpages.Razor.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\System.Web.Helpers.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\System.Web.Mvc.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\Newtonsoft.Json.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\System.Net.Http.Formatting.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\System.Web.Http.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\System.Web.Http.WebHost.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\ru\System.Web.Http.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\DB2\DB2\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\ApplicationInsights.config
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\csc.exe
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\csc.exe.config
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\csc.rsp
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\csi.exe
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\csi.exe.config
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\csi.rsp
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\System.AppContext.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\System.Console.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\System.IO.Compression.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\System.Security.Claims.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\System.ValueTuple.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\vbc.exe
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\vbc.exe.config
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\vbc.rsp
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\DB2.dll.config
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\DB2.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\DB2.pdb
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\FluentNHibernate.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\Iesi.Collections.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\Microsoft.AI.Web.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\Microsoft.Data.Edm.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\Microsoft.Data.OData.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\Newtonsoft.Json.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\NHibernate.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\Npgsql.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\System.Net.Http.Formatting.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\System.Spatial.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\System.Web.Helpers.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\System.Web.Http.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\System.Web.Http.OData.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\System.Web.Http.WebHost.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\System.Web.Mvc.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\System.Web.Razor.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\System.Web.Webpages.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\System.Web.Webpages.Razor.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\FluentNHibernate.pdb
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\FluentNHibernate.xml
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\Iesi.Collections.xml
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\Microsoft.AI.Web.xml
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\Microsoft.Data.Edm.xml
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\Microsoft.Data.OData.xml
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\Newtonsoft.Json.xml
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\NHibernate.xml
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\Npgsql.xml
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\System.Spatial.xml
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\System.Web.Http.OData.xml
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\System.Web.Razor.xml
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\System.Web.Webpages.xml
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\System.Web.Webpages.Razor.xml
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\System.Web.Helpers.xml
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\System.Web.Mvc.xml
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\System.Net.Http.Formatting.xml
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\System.Web.Http.xml
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\System.Web.Http.WebHost.xml
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\de\System.Spatial.resources.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\es\System.Spatial.resources.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\fr\System.Spatial.resources.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\it\System.Spatial.resources.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\ja\System.Spatial.resources.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\ko\System.Spatial.resources.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\ru\System.Spatial.resources.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\ru\System.Web.Http.resources.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\obj\Debug\DB2.csprojResolveAssemblyReference.cache
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\obj\Debug\DB2.dll
+C:\Users\Alsu\Desktop\3.2\Прокопьев\DB2\DB2\obj\Debug\DB2.pdb
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\ApplicationInsights.config
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\csc.exe
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\csc.exe.config
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\csc.rsp
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\csi.exe
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\csi.exe.config
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\csi.rsp
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\System.AppContext.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\System.Console.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\System.IO.Compression.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\System.Security.Claims.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\System.ValueTuple.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\vbc.exe
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\vbc.exe.config
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\vbc.rsp
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\DB2.dll.config
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\DB2.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\DB2.pdb
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\FluentNHibernate.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\Iesi.Collections.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\Microsoft.AI.Web.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\Microsoft.Data.Edm.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\Microsoft.Data.OData.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\Newtonsoft.Json.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\NHibernate.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\Npgsql.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\System.Net.Http.Formatting.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\System.Spatial.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\System.Web.Helpers.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\System.Web.Http.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\System.Web.Http.OData.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\System.Web.Http.WebHost.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\System.Web.Mvc.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\System.Web.Razor.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\System.Web.Webpages.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\System.Web.Webpages.Razor.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\FluentNHibernate.pdb
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\FluentNHibernate.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\Iesi.Collections.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\Microsoft.AI.Web.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\Microsoft.Data.Edm.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\Microsoft.Data.OData.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\Newtonsoft.Json.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\NHibernate.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\Npgsql.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\System.Spatial.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\System.Web.Http.OData.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\System.Web.Razor.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\System.Web.Webpages.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\System.Web.Webpages.Razor.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\System.Web.Helpers.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\System.Web.Mvc.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\System.Net.Http.Formatting.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\System.Web.Http.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\System.Web.Http.WebHost.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\de\System.Spatial.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\es\System.Spatial.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\fr\System.Spatial.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\it\System.Spatial.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\ja\System.Spatial.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\ko\System.Spatial.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\ru\System.Spatial.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\ru\System.Web.Http.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\obj\Debug\DB2.csprojResolveAssemblyReference.cache
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\obj\Debug\DB2.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\Nhibernate\DB2\DB2\obj\Debug\DB2.pdb
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\obj\Debug\DB2.csprojResolveAssemblyReference.cache
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\obj\Debug\DB2.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\obj\Debug\DB2.pdb
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\csc.exe
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\vbc.exe
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\ApplicationInsights.config
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\csc.exe.config
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\csc.rsp
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\csi.exe
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\csi.exe.config
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\csi.rsp
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\System.AppContext.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\System.Console.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\System.IO.Compression.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\System.Security.Claims.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\System.ValueTuple.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\vbc.exe.config
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\roslyn\vbc.rsp
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\DB2.dll.config
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\DB2.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\DB2.pdb
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\Castle.Core.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\Castle.Windsor.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\FluentNHibernate.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\Iesi.Collections.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\log4net.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\Microsoft.AI.Web.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\Microsoft.Data.Edm.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\Microsoft.Data.OData.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\Newtonsoft.Json.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\NHibernate.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\Npgsql.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\System.Net.Http.Formatting.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\System.Spatial.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\System.Web.Helpers.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\System.Web.Http.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\System.Web.Http.OData.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\System.Web.Http.WebHost.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\System.Web.Mvc.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\System.Web.Razor.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\System.Web.Webpages.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\System.Web.Webpages.Razor.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\Castle.Core.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\Castle.Windsor.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\FluentNHibernate.pdb
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\FluentNHibernate.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\Iesi.Collections.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\log4net.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\Microsoft.AI.Web.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\Microsoft.Data.Edm.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\Microsoft.Data.OData.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\Newtonsoft.Json.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\NHibernate.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\Npgsql.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\System.Spatial.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\System.Web.Http.OData.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\System.Web.Razor.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\System.Web.Webpages.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\System.Web.Webpages.Razor.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\System.Web.Helpers.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\System.Web.Mvc.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\System.Net.Http.Formatting.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\System.Web.Http.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\System.Web.Http.WebHost.xml
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\de\System.Spatial.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\es\System.Spatial.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\fr\System.Spatial.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\it\System.Spatial.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\ja\System.Spatial.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\ko\System.Spatial.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\ru\System.Spatial.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\ru\System.Web.Http.resources.dll
+C:\Users\Alsu\Documents\Visual Studio 2015\Projects\БД\2\DB2\DB2\bin\ru\System.Web.Http.WebHost.resources.dll
